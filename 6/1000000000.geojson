@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "06037", "name": "Los Angeles", "Unnamed: 0": 2453, "County FIPS": 6037.0, "County Code": "06037", "County Name": "Los Angeles County", "Month": 6, "Number of Trips": 807869753.0, "Population Staying at Home": 68450060.0, "bins": 1000000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -117.668684, 34.820441 ], [ -117.7837, 33.94413 ], [ -118.117793, 33.741483 ], [ -118.944811, 34.042715 ], [ -118.638103, 34.289177 ], [ -118.884565, 34.793056 ], [ -117.668684, 34.820441 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "17031", "name": "Cook", "Unnamed: 0": 7325, "County FIPS": 17031.0, "County Code": "17031", "County Name": "Cook County", "Month": 6, "Number of Trips": 580449836.0, "Population Staying at Home": 34722546.0, "bins": 1000000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -88.120591, 42.154064 ], [ -87.759113, 42.154064 ], [ -87.523605, 41.710431 ], [ -87.523605, 41.469446 ], [ -88.027483, 41.683047 ], [ -87.928898, 41.995232 ], [ -88.262992, 41.984279 ], [ -88.235607, 42.154064 ], [ -88.197268, 42.154064 ], [ -88.120591, 42.154064 ] ] ] } },
+{ "type": "Feature", "properties": { "id": "48201", "name": "Harris", "Unnamed: 0": 31481, "County FIPS": 48201.0, "County Code": "48201", "County Name": "Harris County", "Month": 6, "Number of Trips": 502269211.0, "Population Staying at Home": 25248861.0, "bins": 1000000000 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -95.218706, 30.066456 ], [ -95.098213, 30.165041 ], [ -94.97772, 29.885717 ], [ -94.928428, 29.672117 ], [ -95.016059, 29.557101 ], [ -95.202275, 29.562578 ], [ -95.218706, 29.557101 ], [ -95.295383, 29.595439 ], [ -95.42683, 29.579009 ], [ -95.826646, 29.787132 ], [ -95.804738, 30.088364 ], [ -95.218706, 30.066456 ] ] ] } }
+]
+}
